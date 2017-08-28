@@ -1,0 +1,25 @@
+{
+  "name": "dennieru.io",
+  "version": "1.0.0",
+  "description": "dennieru",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennieru/dennieru.github.io.git"
+  },
+  "keywords": [
+    "dennieru"
+  ],
+  "author": "dennieru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennieru/dennieru.github.io/issues"
+  },
+  "homepage": "https://github.com/dennieru/dennieru.github.io#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
